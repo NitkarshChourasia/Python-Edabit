@@ -10,7 +10,8 @@ print(remainder(2,5))
 # Let's test lots of modulus implemented remainders.
 # Let's create a for loop until the user ends.
 # UserPrompt Program is being made here.
-def userinput(): # Very Faulty the while loop just keeps on going.
+def userinput(): # Very Faulty the while loop just keeps on going. Irrespective of the Y | yes or No.
+    # I am very close to making it.
     # print(
     # There is a control statement like to run the loop once and then check whether the given condition is right or not?
     # It should and can be used here to make the program much more efficient, right?
