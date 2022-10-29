@@ -13,3 +13,6 @@ intlist1 = [432,2342,23424,131,123,2455,999999]
 intlist1.sort(reverse=True)
 print('Printing the first int by sorting them first:\n{}'.format(returnFirstValue(intlist1)))
 print('Printing by inputting the list in print function itself:\n{}'.format(returnFirstValue([11,3,52,432,234,23,3])))
+print('Printing by inputting the list in print function itself:\n{}'.format(returnFirstValue([1,2,3])))
+print('Printing by inputting the list in print function itself:\n{}'.format(returnFirstValue([80,5,100])))
+print('Printing by inputting the list in print function itself:\n{}'.format(returnFirstValue([-500,0,500])))
