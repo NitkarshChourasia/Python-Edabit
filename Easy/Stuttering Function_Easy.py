@@ -20,3 +20,6 @@ print(stutter("enthusiastic"))
 print(stutter("outstanding"))
 
 # My test of codes ends here.
+
+"""Still the notes part of the constraints are left to implement...
+Which I will implement later, when I would be revising the codes."""

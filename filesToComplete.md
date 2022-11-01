@@ -6,3 +6,4 @@ def incompletePrograms():
     Is the Number Less than or Equal to Zero?_VE.py
     Return the Remainder from Two Numbers_VE.py
     String to Integer and Vice Versa_VE.py
+Radians to Degress_Easy.py
